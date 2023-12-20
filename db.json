@@ -1,0 +1,62 @@
+{
+  "videos": [
+    {
+      "id": "6",
+      "caption": "scene mone",
+      "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg?w=414",
+      "url": "https://www.youtube.com/embed/_tTqDraIzzY"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "informative",
+      "allvideos": [
+        {
+          "id": "6",
+          "caption": "scene mone",
+          "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg?w=414",
+          "url": "https://www.youtube.com/embed/_tTqDraIzzY"
+        },
+        {
+          "id": "6",
+          "caption": "scene mone",
+          "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg?w=414",
+          "url": "https://www.youtube.com/embed/_tTqDraIzzY"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": 1,
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/embed/_tTqDraIzzY",
+      "date": "27-10-2023"
+    },
+    {
+      "id": "6ad618c9-eab7-4795-9a0a-edbf9ecebb08",
+      "categoryName": "scene mone",
+      "url": "https://www.youtube.com/embed/_tTqDraIzzY",
+      "date": "2023-12-18T15:45:19.195Z"
+    },
+    {
+      "id": "a4be12e2-9c87-4dec-a97f-2900d8ddab01",
+      "categoryName": "scene mone",
+      "url": "https://www.youtube.com/embed/_tTqDraIzzY",
+      "date": "2023-12-19T06:04:27.279Z"
+    },
+    {
+      "id": "ad7db8cd-6d04-493b-b655-d4e898938fef",
+      "categoryName": "scene mone",
+      "url": "https://www.youtube.com/embed/_tTqDraIzzY",
+      "date": "2023-12-19T06:10:26.105Z"
+    },
+    {
+      "id": "8c0a9ae2-b72f-451a-88fa-203e105c6f80",
+      "categoryName": "scene mone",
+      "url": "https://www.youtube.com/embed/_tTqDraIzzY",
+      "date": "2023-12-19T15:13:48.303Z"
+    }
+  ]
+}
